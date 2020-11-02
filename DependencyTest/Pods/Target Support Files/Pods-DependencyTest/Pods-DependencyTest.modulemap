@@ -1,0 +1,6 @@
+module Pods_DependencyTest {
+  umbrella header "Pods-DependencyTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
